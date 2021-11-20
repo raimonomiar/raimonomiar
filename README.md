@@ -1,4 +1,4 @@
-### Hello I'm Ayush - aka [raimonomiar][website]👋
+### Hello there, I'm Ayush - aka [raimonomiar][website]👋
 
 ## I'm a Student and Developer!
 - ❄️ I'm currently working on a side projects
