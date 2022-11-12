@@ -1,7 +1,7 @@
 ### Hello there, I'm Ayush - aka [raimonomiar][website]👋
 
 ## I'm Software Engineer at Monotype.!
-- ❄️ My work account https://github.com/ayushkarki
+- ❄️ My work account @ayushkarki[github]
 - ☁️ I'm currently learning everything related to serverside 😏
 - ⚓️ 2022 Goals: Build some personal projects and contribute more to Open Source projects
 - ⭐️ Fun Fact: I love playing co-op games and watching anime.
@@ -40,3 +40,4 @@
 [docker]: https://github.com/docker
 [dotnet]: https://github.com/dotnet
 [jenkins]: https://github.com/jenkinsci/jenkins
+[github]: https://github.com/ayushkarki
