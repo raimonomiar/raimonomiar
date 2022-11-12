@@ -1,7 +1,7 @@
 ### Hello there, I'm Ayush - aka [raimonomiar][website]👋
 
-## I'm a Student and Developer!
-- ❄️ I'm currently working on a side projects
+## I'm Software Engineer at Monotype.!
+- ❄️ My work account https://github.com/ayushkarki
 - ☁️ I'm currently learning everything related to serverside 😏
 - ⚓️ 2022 Goals: Build some personal projects and contribute more to Open Source projects
 - ⭐️ Fun Fact: I love playing co-op games and watching anime.
