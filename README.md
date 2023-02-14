@@ -3,7 +3,7 @@
 ## I'm Software Engineer at Monotype.!
 - ❄️ My work account [@ayushkarki][github]
 - ☁️ I'm currently learning everything related to serverside 😏
-- ⚓️ 2022 Goals: Build some personal projects and contribute more to Open Source projects
+- ⚓️ 2023 Goals: Build some personal projects and contribute more to Open Source projects
 - ⭐️ Fun Fact: I love playing co-op games and watching anime.
 
 ### Connect with me:
