@@ -1,6 +1,6 @@
 ### Hello there, I'm Ayush - aka [raimonomiar][website]👋
 - ☁️  I do C# and JavaScript by day and rust by night
-- ⚓️ 2023 Goals: Build some personal projects and contribute more to Open Source projects
+- ⚓️ 2024 Goals: Build some personal projects and contribute more to Open Source projects
 - ⭐️ Fun Fact: I love playing co-op games and watching anime.
 
 ### Connect with me:
